@@ -1,0 +1,1 @@
+A project in which sentiment of a tweet of airline reviews is predicted using TFIDF vectorizer
