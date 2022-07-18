@@ -1,0 +1,1 @@
+Implemented naive bayes from scratch
